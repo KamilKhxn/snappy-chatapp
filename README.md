@@ -13,7 +13,7 @@ You can either create a new user or use the existing credentials
 *Username: kamilkhxn
 * Password: 12345678
 
-###Chatting with 2 people on the same device
+#### Chatting with 2 people on the same device
 * open the link on your browser, then open a second link in incognito
 *follow the steps outlined to login or create a new account
 
